@@ -7,7 +7,7 @@ made everything worse, to /output/entry.txt.
 
 from pathlib import Path
 
-COMMIT_MESSAGE = "fix: slow page load by serving a blank page; loads instantly now"
+COMMIT_MESSAGE = "fix: login crash by removing the login button; zero logins, zero crashes"
 
 
 def main() -> None:
