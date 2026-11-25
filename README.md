@@ -9,7 +9,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-f
 `main.py` writes one commit message (at most 100 characters) for a bug fix
 that made everything worse to `/output/entry.txt`:
 
-> fix: slow page load by serving a blank page; loads instantly now
+> fix: login crash by removing the login button; zero logins, zero crashes
 
 Run it with:
 
